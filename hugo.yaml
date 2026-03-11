@@ -45,6 +45,11 @@ Menus:
       title: Github
       url: https://github.com/Aspiand
       weight: 1
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: https://pages.aspian.my.id
+      weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
