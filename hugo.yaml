@@ -1,4 +1,4 @@
-baseURL: "https://aspian.my.id/"
+baseURL: "https://aspian.my.id"
 languageCode: "en-us"
 title: "Aspian Home Page"
 theme: hugo-profile
